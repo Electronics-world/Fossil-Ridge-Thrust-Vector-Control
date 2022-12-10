@@ -1,4 +1,4 @@
-# Open-Model-Rocket-Thrust-Vector-Control
+# Fossil Ridge Thrust Vector Control
 Open-source model rocket thrust vector control (TVC) project. Code, CAD files, and, instructions are all free to download and view.
 
 ***All CAD files are Solidwork files currently, but they will be exported to STEP files here soon.***
