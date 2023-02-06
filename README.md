@@ -1,6 +1,7 @@
 # Fossil Ridge Thrust Vector Control
 Open-Source Model Rocket Thrust Vector Control project. 
 Code, CAD files, and instructions are all free to download and view.
+STILL WORK IN PROGRESS
 
 # Best part about our project?
 
